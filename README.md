@@ -3,7 +3,8 @@
 
 ---
 
-- 🔭 Currently a **Data Science Intern @ Softroniics** — working on predictive modeling, EDA, and dashboarding
+- 💼 **Data Science Intern @ Softroniics** (Nov 2025 – Jul 2026) — worked on predictive modeling, EDA, and dashboarding
+- 🔭 Currently seeking full-time opportunities in Data Science / Machine Learning
 - 🧠 I build full-stack ML projects: forecasting, RAG, computer vision, churn prediction — each shipped with real deployment concerns (APIs, explainability, offline fallbacks)
 - 🌱 Currently deepening my skills in **MLOps, Docker, and cloud deployment**
 - 📫 Reach me at **mohammed.shibili.cm.1@gmail.com**
